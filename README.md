@@ -32,4 +32,4 @@ Este projeto é uma excelente referência para entender como a concorrência fun
 1. Clone este repositório:
    ```bash
    git clone [https://github.com/oLorenZin/Sistema-de-Estoque.git](https://github.com/oLorenZin/Sistema-de-Estoque.git)
-SOCORRO
+
