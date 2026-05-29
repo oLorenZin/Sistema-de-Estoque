@@ -1,8 +1,8 @@
 # Sistema de Estoque
-Projeto acadêmico de Ciência da Computação (UVA) focado em Python, desenvolvido para a disciplina de Programação e Plataformas de Alto Desempenho, sob orientação do professor Thiago Alberto Ramos Gabriel.
+   Projeto acadêmico de Ciência da Computação (UVA) focado em Python, desenvolvido para a disciplina de Programação e Plataformas de Alto Desempenho, sob orientação do professor Thiago Alberto Ramos Gabriel.
 # Controle de Estoque Concorrente em Python
 
-Um script interativo de terminal que simula um sistema de controle de estoque utilizando **Concorrência, Multithreading e Memória Compartilhada** em Python. O projeto demonstra na prática o clássico problema do produtor-consumidor com sincronização baseada em Locks.
+   Um script interativo de terminal que simula um sistema de controle de estoque utilizando **Concorrência, Multithreading e Memória Compartilhada** em Python. O projeto demonstra na prática o clássico problema do produtor-consumidor com sincronização baseada em Locks.
 
 ## Funcionalidades
 
@@ -13,7 +13,7 @@ Um script interativo de terminal que simula um sistema de controle de estoque ut
 
 ## Conceitos Demonstrados
 
-Este projeto é uma excelente referência para entender como a concorrência funciona em Python:
+   Este projeto é uma excelente referência para entender como a concorrência funciona em Python:
 
 1.  **`threading.Thread`**: Criação de threads produtoras (fornecedor), consumidoras (clientes) e observadoras (relatório).
 2.  **Memória Compartilhada**: Uso de um dicionário global (`estoque`) e contadores acessados por múltiplas threads.
