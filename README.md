@@ -1,4 +1,4 @@
-# Sistema de Estoqueu
+# Sistema de Estoque
 Trabalho da matéria Programação e Plataformas de Alto Desempenho, da Universidade Veiga de Almeida. Disciplina guiado pelo professor Thiago Alberto Ramos Gabriel
 # Controle de Estoque Concorrente em Python
 
