@@ -31,4 +31,4 @@ Este projeto é uma excelente referência para entender como a concorrência fun
 ### Passo a passo
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone [https://github.com/oLorenZin/Sistema-de-Estoque.git](https://github.com/oLorenZin/Sistema-de-Estoque.git)
